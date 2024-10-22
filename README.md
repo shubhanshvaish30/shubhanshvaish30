@@ -1,5 +1,5 @@
 ### Hi I'm Shubhansh Vaish 👋
-# 🔭 I am a passionate MERN Stack Developer who enjoys building dynamic and user-friendly web applications.
+##### 🔭 I am a passionate MERN Stack Developer who enjoys building dynamic and user-friendly web applications.
 <!--
 **shubhanshvaish30/shubhanshvaish30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
